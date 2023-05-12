@@ -1,0 +1,25 @@
+body{
+    background: url(/img/casa-kame-de-dragon-ball.jpg)no-repeat;
+    background-size: contain;
+    background-size: 100%;
+    background-attachment: fixed;
+    
+    
+}
+header{
+    background: url(https://i.pinimg.com/564x/e0/bf/68/e0bf68b050f8d4e947aed4d85818fc20.jpg) no-repeat ;
+    background-size: contain;
+    background-size: 100%;
+    background-attachment: fixed;
+    
+    
+    
+}
+
+
+
+.carousel{
+    height: 50vh;
+    margin: 5%;
+    background: center;
+}
